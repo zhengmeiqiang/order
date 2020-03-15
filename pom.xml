@@ -15,7 +15,7 @@
 	</properties>
 	
 	<dependencies>
-		<!-- mybatis -->
+		<!-- mybatis  -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
